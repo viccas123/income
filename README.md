@@ -1,3 +1,5 @@
+
+'''
 income/
 ├── data/
 │   └── train_test_split
@@ -14,3 +16,4 @@ income/
 ├── .gitignore [Archivos y carpetas ignoradas por Git]
 ├── requirements.txt [Dependencias del proyecto]
 └── README.md [Documentación general del proyecto]
+'''
